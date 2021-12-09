@@ -62,5 +62,5 @@
 </p>
 
 ## ❤ Followers & Stars
-<a href="https://github.com/Ishita-gup123?tab=stars"><>
+<a href="https://github.com/Ishita-gup123?tab=stars"><img src = "https://img.shields.io/badge/Stars%20-21-blue">
 <a href="https://github.com/Ishita-gup123?tab=followers"><img src="https://img.shields.io/github/followers/Ishita-gup123?label=Followers&style=social" alt="GitHub Badge"></a>
