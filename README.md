@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Web Developer</h3>
 
 
-## �🙋🏻‍♀️🏻‍♀️ About Me
+##  🙋🏻‍♀️About Me
 
 - 🔭 I’m currently working on various projects related to web development.
 
