@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Web Developer</h3>
 
 
-## ![image](https://user-images.githubusercontent.com/85993726/145409669-4fe2ba43-7d9f-424b-8c1d-5264db02ba35.png)About Me
+## About Me
 
 - 🔭 I’m currently working on various projects related to web development.
 
