@@ -1,4 +1,4 @@
-<a href="#"><img width="65%" height="300px" align"center" src="https://www.fatrabbitcreative.com/images/blog/blog_rockWorkingFromHome-resized.jpg" height="50px"/></a>
+<a href="#"><img width="65%" height="300px" src="https://www.fatrabbitcreative.com/images/blog/blog_rockWorkingFromHome-resized.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ishita</h1>
 <h3 align="center">I'm a passionate Web Developer</h3>
