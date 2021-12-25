@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github Repo](https://github.com/Ishita-gup123)**
 
-- 📫 How to reach me **gishitag.54@gmail.com**
+- 📫 Reach me at **gishitag.54@gmail.com**
 
 
 ## 🚀 Languages and Tools:
