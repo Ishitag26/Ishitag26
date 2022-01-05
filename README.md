@@ -51,5 +51,5 @@
 
 </p>
 
-## ❤ Followers & Stars
+## ❤ Followers 
 <a href="https://github.com/Ishita-gup123?tab=followers"><img src="https://img.shields.io/github/followers/Ishita-gup123?label=Followers&style=social" alt="GitHub Badge"></a>
