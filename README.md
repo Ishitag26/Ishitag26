@@ -29,7 +29,7 @@
   <img alt="Ishita Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita-gup123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
   </div>
 
-## Connect with me:
+## 🤝🏻Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ishita-gupta-018517206"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
