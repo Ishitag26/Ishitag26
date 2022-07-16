@@ -1,6 +1,6 @@
 <h1 align="center">Hi,I'm Ishita Gupta</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergrade;Tech%20Enthusiast;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
 <div align="center">
 <a href="https://github.com/Ishita-gup123?tab=followers"><img src="https://img.shields.io/github/followers/Ishita-gup123?label=Followers&style=social" alt="GitHub Badge"></a>
