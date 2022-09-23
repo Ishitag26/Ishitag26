@@ -27,8 +27,8 @@
 ## 📊 Github Stats
 
  <div align="center">
-    <img alt="Ishita Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ishita-gup123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-  <img alt="Ishita Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita-gup123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+    <img alt="Ishita Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ishitag26&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+  <img alt="Ishita Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishitag26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
   </div>
 
 ## 🤝🏻Connect with me:
@@ -40,4 +40,4 @@
 
 </p>
 
-![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ishita-gup123&theme=react-dark&hide_border=true&area=true)
+![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ishitag26&theme=react-dark&hide_border=true&area=true)
